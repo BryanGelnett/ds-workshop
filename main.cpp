@@ -4,7 +4,7 @@
 #include <cstdlib>  
 
 int main(int argc, char* argv[]) {
-
+    //raeversecode
     std::list<int> intList;
 
     for (int i = 1; i < argc; ++i) {
